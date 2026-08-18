@@ -1,1 +1,1 @@
-CMake Template for C/C++ Projects
+# CMake Template for C++ Projects
